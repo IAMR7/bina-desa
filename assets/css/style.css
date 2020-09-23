@@ -149,26 +149,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 10px;
 }
 
-/* #header .logo p {
-  color: white;
-  font-size: 11px;
-} */
-
-/* #header .logo a {
-  color: #fff;
-} */
-
 #header .logo img {
   max-height: 40px;
-  padding: 0;
-  margin: 0;
+  margin-top: 15px;
 }
 
 @media (max-width: 992px) {
-  #header .logo, #header .text-logo {
-    padding: 0;
-    margin: 0;
-  }
 
   #header .text-logo {
     padding-left: 10px;
