@@ -149,7 +149,7 @@
   });
 
   // Intro carousel
-  var introCarousel = $(".carousel");
+  var introCarousel = $(".carousel");  
   var introCarouselIndicators = $(".carousel-indicators");
   introCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
     (index === 0) ?
